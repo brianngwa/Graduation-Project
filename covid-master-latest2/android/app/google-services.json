@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "423271751692",
+    "project_id": "covid-master",
+    "storage_bucket": "covid-master.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:423271751692:android:4430493214d9642d174e29",
+        "android_client_info": {
+          "package_name": "com.tendoll.covid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "423271751692-73n4rdcep280l14i2dgngpe2bn58pb4p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tendoll.covid",
+            "certificate_hash": "3a1b63d63edb1f785e39f8d58ad8ef6fb58cbfdf"
+          }
+        },
+        {
+          "client_id": "423271751692-uil2hn0d8lsgf4ks33c5s34mpn91nkik.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRntqxeEvbqSKTt4p3c3bl-y6GrVCNhHY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "423271751692-uil2hn0d8lsgf4ks33c5s34mpn91nkik.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
